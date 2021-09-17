@@ -1,0 +1,1 @@
+print (f"summa = input")
